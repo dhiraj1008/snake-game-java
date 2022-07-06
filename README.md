@@ -1,0 +1,2 @@
+# snake-game-java
+ This is the classic version of the most popular mobile and computer game named “SNAKE” built in JAVA . The main objective of this game is to feed an increasing length of a snake with food particles which are found at random positions, and trying to avoid hitting its own tail or the edges of the playing area. Each time the snake eats a piece of food, its tail grows longer, making the game increasingly difficult.
