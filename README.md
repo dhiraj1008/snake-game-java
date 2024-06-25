@@ -1,9 +1,7 @@
-# Snake Game in Java
+## Snake Game in Java 
+<img src="https://github.com/dhiraj1008/snake-game-java/assets/94028619/ab1734a1-1636-44bc-852c-3007c4df07fb" width="900" height="330" />
 
-https://github.com/dhiraj1008/snake-game-java/assets/94028619/222cc642-8722-4e24-aecd-3804bb4c2969
-
-This project is a simple implementation of the classic Snake game using Java.
-
+##### This project is a simple implementation of the classic Snake game using Java.
 ## Features
 
 - *Snake Movement:* Control the snake using arrow keys (up, down, left, right).
